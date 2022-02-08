@@ -1,2 +1,2 @@
-# picbed
+# Pic Bed
 pic bed
